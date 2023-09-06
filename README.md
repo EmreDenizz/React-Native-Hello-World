@@ -2,11 +2,13 @@
 React Native - Lab 1
 
 ### HOW TO RUN:
+```console
 npx expo start
+```
 
 ### DESCRIPTIONS:
 React Native - Lab 1
 First React Native app for printing some information about me.
 
 ### SCREENSHOTS:
-<kbd><img src="images/SS_1.jpg"/></kbd>
+<kbd><img src="images/SS_1.jpg" height="600"/></kbd>
