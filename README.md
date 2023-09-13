@@ -3,6 +3,7 @@ React Native - Lab 1
 
 ### HOW TO RUN:
 ```console
+npm install
 npx expo start
 ```
 
